@@ -11,7 +11,9 @@
 
 ![paychek awesome](https://github.com/user-attachments/assets/5babca4c-919a-48e0-9679-0611fe9fc6c5) 
 
+ <p align="center"
 
+![](https://komarev.com/ghpvc/?username=sanctityscall&style=plastic&color=A6290D&label=pizzas+baked)
 
 
 
